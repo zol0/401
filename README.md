@@ -1,7 +1,7 @@
 # 401
 
 # Administrative Roles
-Team Lead - Cody \\
+Team Lead - Cody \n
 Librarian - Andrey
 Lead Writer - Andrey
 Lead Presenter - James
