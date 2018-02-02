@@ -20,5 +20,4 @@ Angela Nguyen - anguye10@vols.utk.edu
 
 ### Project Idea
 ##### Budget Diary and Planner App
-(Original Writeup on Google Sheets)  
 Keeps track of expenses, income, and savings. Estimate and graph spending for the month to the year. Calculate the amount needed in account or earn to fulfill needs for the month/year/date.
