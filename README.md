@@ -24,11 +24,11 @@ Angela Nguyen - anguye10@vols.utk.edu
 Keeps track of expenses, income, and savings. Estimate and graph spending for the month to the year. Calculate the amount needed in account or earn to fulfill needs for the month/year/date.
 
 ### Upcoming Assignments
-2/26 - Needs and Requirements Specification Report
-2/26 - Need, Market, and Concept Presentation
+2/26 - Needs and Requirements Specification Report <br />
+2/26 - Need, Market, and Concept Presentation <br />
 
 ### Completed Assignments
-1/17 - Resume and Skills
-1/25 - Project Concept
-2/5  - Societal Impact Essay
-2/7  - Team Management Report
+1/17 - Resume and Skills <br />
+1/25 - Project Concept <br />
+2/5  - Societal Impact Essay <br />
+2/7  - Team Management Report <br />
