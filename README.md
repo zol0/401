@@ -1,6 +1,12 @@
 # Senior Design - 401
 ## TEAM 5
 
+### Team Members
+Dakota Sanders - dsande30 <br />
+Andrey Karnauch - akarnauc <br />
+Matthew Matto - hgd145 <br />
+James Cate - jcate6 <br />
+
 ### Administrative Roles
 Team Lead - Cody <br />
 Librarian - Andrey <br />
