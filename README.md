@@ -1,7 +1,7 @@
 # TEAM 5 - Senior Design (401)
 ### Upcoming Assignments
+- 2/19 - Need, Market, and Concept Presentation **(We present first)**
 - 2/26 - Needs and Requirements Specification Report  
-- 2/26 - Need, Market, and Concept Presentation  
 ---
 ### Team Members
 Dakota Sanders - dsande30  
